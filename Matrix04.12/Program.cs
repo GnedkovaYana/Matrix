@@ -6,7 +6,6 @@ namespace Lessons
     {
         static void Main(string[] args)
         {
-
             int vertical = int.Parse(Console.ReadLine());
             int horizontal = int.Parse(Console.ReadLine());
             int[,] Matrix = new int[horizontal, vertical];
